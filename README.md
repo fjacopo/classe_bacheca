@@ -1,10 +1,10 @@
 bacheca_pausaidattica-master
 FUNZIONI:
-Aggiungi(promemoria)
-AggiungiConData(promemoria)
-Rimuovi(promemoria)
-RimuoviConData(promemoria)
-Sposta(destinazione,promemoria)
+Aggiungi(Promemoria p)
+AggiungiConData(Promemoria p)
+Rimuovi(Promemoria p)
+RimuoviConData(Promemoria)
+Sposta(destinazione,Promemoria)
 getPromemoria(int i)
-getPromemoriaConParola(parola,array promemoria)
-getPromemoriaConData(data,array promemoria)
+getPromemoriaConParola(string parola,string [] InputArray)
+getPromemoriaConData(string data,string [] InputArray)
